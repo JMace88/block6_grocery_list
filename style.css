@@ -1,47 +1,74 @@
+header {
+  text-align: center;
+}
 h1 {
-    background-color: coral;
+  /* text-align: center; */
+  background-color: coral;
+  border: solid 3px;
+  width: fit-content;
+  margin-left: 14rem;
 }
 h2 {
-    background-color: chartreuse;
-    color:brown;
+  background-color: chartreuse;
+  color: brown;
+  border: solid 3px;
+  text-align: center;
 }
 h3 {
-    background-color: cadetblue;
+  background-color: cadetblue;
+  border: solid 3px;
+  text-align: center;
+  margin-right: 35px;
 }
-
+p {
+    color: darkmagenta;
+}
 .drygoods {
-    background-color: antiquewhite;
-    color:blue;
-    border: solid 3px black;
-    margin: 3px;
-    padding-bottom: 20px;
-    width: 200px;
+  display: inline-block;
+  background-color: antiquewhite;
+  color: blue;
+  border: solid 3px black;
+  margin: 3px;
+  padding-bottom: 20px;
+  width: 200px;
+  height: 200px;
 }
 .canned {
-    background-color: antiquewhite;
-    color:purple;
-    border: solid 3px black;
-    margin: 3px;
-    padding-bottom: 20px;
-    width: 200px;
+  display: inline-block;
+  background-color: antiquewhite;
+  color: purple;
+  border: solid 3px black;
+  margin: 3px;
+  padding-bottom: 20px;
+  height: 200px;
+  width: 200px;
 }
 .veggies {
-    background-color: blanchedalmond;
-    color:orange;
-    border: solid 3px black;
-    margin: 3px;
-    padding-bottom: 20px;
-    width: 200px;
+  display: inline-block;
+  background-color: blanchedalmond;
+  color: orange;
+  border: solid 3px black;
+  margin: 3px;
+  padding-bottom: 20px;
+  height: 200px;
+  width: 200px;
 }
 .snacks {
-    background-color: blanchedalmond;
-color:green;
-border: solid 3px black;
-margin: 3px;
-padding-bottom: 20px;
-width: 200px;
+  display: inline-block;
+  background-color: blanchedalmond;
+  color: green;
+  border: solid 3px black;
+  margin: 3px;
+  padding-bottom: 20px;
+  height: 200px;
+  width: 200px;
 }
 img {
-    max-height: 250px;
-    padding: 5px;
+  height: 220px;
+  border: solid 3px black;
+  padding: 0px;
+  margin-top: 91px;
+}
+div {
+  display: flex;
 }
