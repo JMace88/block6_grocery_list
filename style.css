@@ -15,6 +15,7 @@ h3 {
     border: solid 3px black;
     margin: 3px;
     padding-bottom: 20px;
+    width: 200px;
 }
 .canned {
     background-color: antiquewhite;
@@ -22,6 +23,7 @@ h3 {
     border: solid 3px black;
     margin: 3px;
     padding-bottom: 20px;
+    width: 200px;
 }
 .veggies {
     background-color: blanchedalmond;
@@ -29,6 +31,7 @@ h3 {
     border: solid 3px black;
     margin: 3px;
     padding-bottom: 20px;
+    width: 200px;
 }
 .snacks {
     background-color: blanchedalmond;
@@ -36,6 +39,7 @@ color:green;
 border: solid 3px black;
 margin: 3px;
 padding-bottom: 20px;
+width: 200px;
 }
 img {
     max-height: 250px;
