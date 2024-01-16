@@ -1,0 +1,43 @@
+h1 {
+    background-color: coral;
+}
+h2 {
+    background-color: chartreuse;
+    color:brown;
+}
+h3 {
+    background-color: cadetblue;
+}
+
+.drygoods {
+    background-color: antiquewhite;
+    color:blue;
+    border: solid 3px black;
+    margin: 3px;
+    padding-bottom: 20px;
+}
+.canned {
+    background-color: antiquewhite;
+    color:purple;
+    border: solid 3px black;
+    margin: 3px;
+    padding-bottom: 20px;
+}
+.veggies {
+    background-color: blanchedalmond;
+    color:orange;
+    border: solid 3px black;
+    margin: 3px;
+    padding-bottom: 20px;
+}
+.snacks {
+    background-color: blanchedalmond;
+color:green;
+border: solid 3px black;
+margin: 3px;
+padding-bottom: 20px;
+}
+img {
+    max-height: 250px;
+    padding: 5px;
+}
